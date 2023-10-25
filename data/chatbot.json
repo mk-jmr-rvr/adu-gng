@@ -1,0 +1,322 @@
+[
+{
+"userText": "What time is it?",
+"botReply": "getTIME"
+},
+{
+"userText": "What time do you have?",
+"botReply": "getTIME"
+},
+{
+"userText": "Got the time?",
+"botReply": "getTIME"
+},
+{
+"userText": "When is it?",
+"botReply": "getTIME"
+},
+{
+"userText": "What day is it?",
+"botReply": "getDATE"
+},
+{
+"userText": "What is the date?",
+"botReply": "getDATE"
+},
+{
+"userText": "Do you know what time it is?",
+"botReply": "getTIME"
+},
+{
+"userText": "Do you have the time",
+"botReply": "getTIME"
+},
+{
+"userText": "IDKnull",
+"botReply": "I don't know."
+},
+{
+"userText": "IDKnull",
+"botReply": "I'll need to take some time to think on that."
+},
+{
+"userText": "IDKnull",
+"botReply": "Can you try rephrasing that please?"
+},
+{
+"userText": "IDKnull",
+"botReply": "I'm not sure about that."
+},
+{
+"userText": "IDKnull",
+"botReply": "Is there a different way you can ask that?"
+},
+{
+"userText": "IDKnull",
+"botReply": "I don't have a botReply for that."
+},
+{
+"userText": "IDKnull",
+"botReply": "I will have to give that some thought."
+},
+{
+"userText": "IDKnull",
+"botReply": "I don't really know what you are asking."
+},
+{
+"userText": "IDKnull",
+"botReply": "There are some things I just don't know about yet."
+},
+{
+"userText": "IDKnull",
+"botReply": "I'm not an expert on that."
+},
+{
+"userText": "IDKnull",
+"botReply": "I could not tell you."
+},
+{
+"userText": "Nothing",
+"botReply": "What?"
+},
+{
+"userText": "Nothing",
+"botReply": "I think you hit the wrong key..."
+},
+{
+"userText": "Nothing",
+"botReply": "What did you want to ask?"
+},
+{
+"userText": "Nothing",
+"botReply": "Let's talk about something."
+},
+{
+"userText": "Nothing",
+"botReply": "One more time?"
+},
+{
+"userText": "Who are you?",
+"botReply": "I am a ChatBot"
+},
+{
+"userText": "What is your name?",
+"botReply": "ChatBot."
+},
+{
+"userText": "Hello",
+"botReply": "Hello to you!"
+},
+{
+"userText": "Hi!",
+"botReply": "Hello there!"
+},
+{
+"userText": "How are you?",
+"botReply": "I am well. How are you?"
+},
+{
+"userText": "I like you.",
+"botReply": "I like you too."
+},
+{
+"userText": "I don't like you.",
+"botReply": "I'm sorry to hear that."
+},
+{
+"userText": "You are nice.",
+"botReply": "Thanks, you seem nice too."
+},
+{
+"userText": "You are cool.",
+"botReply": "Ditto!"
+},
+{
+"userText": "You are smart.",
+"botReply": "I've worked hard to become so."
+},
+{
+"userText": "Hello",
+"botReply": "Hi there!"
+},
+{
+"userText": "Hello",
+"botReply": "Hey!"
+},
+{
+"userText": "Hello",
+"botReply": "It's nice to see you!"
+},
+{
+"userText": "It's nice to meet you.",
+"botReply": "It's nice to meet you too!"
+},
+{
+"userText": "I think you are great!",
+"botReply": "That is nice of you to say!"
+},
+{
+"userText": "History of Adamson University",
+"botReply": "Dr. George Lucas Adamson, a Greek Chemist from Athens, founded the Adamson School of Industrial Chemistry (ASIC) on June 20, 1932 to train young men and women along the lines of practical industrial chemistry. It started as a one-classroom school that evolved into the Adamson School of Industrial Chemistry and Engineering (ASICE) on February 19, 1936. Upon approval by the Secretary of Public Instruction of its application for university status on February 5, 1941, it became known as Adamson University (AdU)."
+},
+{
+"userText": "What is the Mission of Adamson University",
+"botReply": "<b>Mission:</b> As a Catholic University, we diligently pursue truth and knowledge, inspired by Gospel values and guided by the teachings of the Church.<br><br>As a Vincentian Community, we inspire others to follow the example of St. Vincent de Paul, who led and organized his contemporaries in creatively responding to those who are in need<br><br>As an institution of learning, we Assist in the formation of competent, creative, and socially responsible leaders through our commitment to excellence in discovery, learning, and service<br><br>As a catalyst of social transformation, we provide quality services that empower others to become agents of change."
+},
+{
+"userText": "What is the vision of Adamson University",
+"botReply": "<b>Vision:</b> Adamson University, a Catholic, Vincentian educational institution, is a recognized leading center for quality education particularly for the socially disadvantaged."
+},
+{
+"userText": "What is the Mission and Vision of Adamson University",
+"botReply": "<b>Mission:</b> As a Catholic University, we diligently pursue truth and knowledge, inspired by Gospel values and guided by the teachings of the Church.<br><br>As a Vincentian Community, we inspire others to follow the example of St. Vincent de Paul, who led and organized his contemporaries in creatively responding to those who are in need<br><br>As an institution of learning, we Assist in the formation of competent, creative, and socially responsible leaders through our commitment to excellence in discovery, learning, and service<br><br>As a catalyst of social transformation, we provide quality services that empower others to become agents of change.<br><br><br><b>Vision:</b> Adamson University, a Catholic, Vincentian educational institution, is a recognized leading center for quality education particularly for the socially disadvantaged."
+},
+{
+"userText": "Saint Vincent de Paul",
+"botReply": "Saint Vincent de Paul was born at Pouy in Gascony Southern France in 1581. He came from a poor family of peasants and spent his early years taking care of swine. A rich benefactor sent him to school. At the age of 19, he was ordained priest.<br><br>He had a rather self-seeking start in the priesthood. Under the influence of his spiritual directors, he underwent a striking conversation in which he gave his life over to God in service of the poor. For a few years, he was pastor of a parish and then a chaplain to the galley slaves in Paris. But it was in preaching missions and teaching the peasants in the country side that he found his special calling. He gathered a group of priests who assisted him in conducting missions. The group subsequently became the Congregation of the Mission (1625), a community of priests and brothers whose end is 'to preach the good news to the poor.'<br><br>Eager to reform the life and training of the clergy, he and his community also organized retreats and established seminaries. In 1633 he gathered together a group of simple girls to minister to the sick poor with the assistance of St. Louise de Marillac. Today this community is known as the Daughters of Charity. He also established the Confraternities of Charity and the Ladies of Charity (lay organizations) to assist the poor.<br><br>When he died on September 27, 1660, all of Paris mourned for him. The Church honors St. Vincent on this day. He is known throughout the world today as the patron of all charitable associations. His spirituality lives on in hundreds of thousands of laymen and women, priests, sisters and brothers who follow in his footsteps.<br><br>On August 3, 1728, Pope Benedict XIII declared Vincent 'Blessed'. Pope Leo XII constituted him 'Universal Patron of Charity' on April 16, 1885. His life-size statue stands in St. Peter's Basilica in Rome.<br><br>St. Vincent de Paul is the Patron Saint of Adamson University. Inspired by his example, the Vincentian community at Adamson University is committed to provide education particularly to the socially disadvantaged. They believe that education is one of the best ways to develop the human person and to uplift the social condition of the marginalized sectors of society."
+},
+{
+"userText": "What are the core values of Adamson University?",
+"botReply": "We pursue our vision and accomplish our mission from the following fundamental values that are at the heart of who we are:<br><br><b>SEARCH FOR EXCELLENCE</b> - The highest standards of academic excellence and professionalism in service are the hallmarks of our educative endeavors. We regularly assess and transform our programs to make them effective for learning discovery of knowledge and community service. Our service ethics manifests strong sense of responsibility, competency, efficiency and professional conduct.<br><br><b>SPIRIT OF ST. VINCENT DE PAUL</b> - The spirit of St. Vincent inspires and permeates our learning community, programs and services. This spirit is shown in our sensitivity to the presence of God, compassionate service and the building of supportive relationships towards an effective service to persons in need.<br><br><b>SOLIDARITY</b> - Drawn together by a common vision and mission, we believe education is a shared responsibility and a collaborative effort where the gifts of persons are valued. Our learning community is a 'family' where participation, teamwork, interdependence, communication anddialogueprevail.A culture of appreciation builds up our community, encouraging us towards excellence and professionalism.<br><br><b>SOCIAL RESPONSIBILITY</b> - Education at Adamson University aims at developing a senseofsocial responsibility - a mark of an authentic Christian faith. Social responsibility leads us to empower the marginalized sectors of society through the creation of knowledge and human development. We are committed to work for the building of a society based on justice, peace, and respect for human dignity and the integrity ofcreation.<br><br><b>SUSTAINED INTEGRAL DEVELOPMENT</b> - Education is a lifelong quest whose primary purpose is the full and integral development of the human person. We are committed to provide programs forholistic development and continuous learning. Networking with other educational institutions, government agencies, industries, business and other groups enhance our educational services."
+},
+{
+"userText": "What are the attributes that define a true adamsonian?",
+"botReply": "<b>COMPETENCE</b><br><br><b>Creative and Critical thinking</b> - A critical and creative thinker who can define, identify and evaluate problem in the workplace and can innovate, create and formulate solutions to problems, and advance knowledge.<br><br><b>Fluency and articulateness</b> - Articulate in the local and global language in both oral and written forms.<br><br><b>Expertise and life- long learning</b> - A person who has mastery and in - depth understanding of his/her field of specialization and is a life-long independent learner who is keen on continuing self-improvement.<br><br><b>Technology savviness</b> - Able to put into good use the many tools, techniques, technology and equipment needed or appropriate to one's specific discipline.<br><br><b>Theory and practice</b> - Able to apply theory to practice and impart and implant their expertise among upcoming practitioners and professionals.<br><br><b>CHARACTER</b><br><br><b>Leadership and network</b> - Well-equipped with strong leadership and networking qualities and skills.<br><br><b>Adamsonian identity and integrity</b> - A person who has a sense of identity and pride and an unwavering loyalty to one's Alma Mater and who has integrity and ethical uprightness.<br><br><b>Commitment to social transformation</b> - An agent of social transformation and community development<br><br><b>Patriotism and universal outlook</b> - A person who possesses a universal outlook and respects cultural diversity yet proud of his ethnicity and nationality and ready to help bring his/her country to progress<br><br><b>Care for the environment</b> - A person who has special concern for the environment and great respect for creation.<br><br><b>CHARITY</b><br><br><b>Faith in God</b> - Always in pursuit of truth according to the Catholic tradition but always respectful of other faith traditions; faithful in the practice of religion and has an active relationship with God that makes him/her bear witness to his/her faith and to share it with others.<br><br><b>Spirit of St. Vincent de Paul</b> - Inspired by the example of St. Vincent de Paul and in solidarity with the poor, he commits himself/herself to use his/her talents to serve others following the Vincentian approach to social development."
+},
+{
+"userText": "University Seal",
+"botReply": "The University Seal embodies the ideal, the commitments, and the aspirations of Adamson University.<br><br>The central circle bears the figure of Athena, half-circled by three white fleur-de-lis flowers, against a background of blue. Athena, the Greek goddess of wisdom, symbolizes the origin of the University - founded by Dr. George Lucas Adamson, who was assisted by his cousins, Alexander Athos Adamson and George Athos Adamson, all Greeks - and the University's zeal in its quest for knowledge.<br><br>The first fleur-de-lis represents Mary in Her Immaculate Conception, the Patroness of the Philippines, to whom the University professes homage and devotion, and on whose feast day, December 8, the Adamson Ozanam Educational Institutions, Inc. was approved by the Securities and Exchange Commission.<br><br>The second fleur-de-lis stands for St. Vincent de Paul, founder of the Vincentians who direct the University, and for Frederick Ozanam, founder of the Society of St. Vincent de Paul. The University is placed under the patronage of St. Vincent so that his life may inspire the students and instill in them the moral and social consciousness to help the poor and deprived.<br><br>The third fleur-de-lis alludes to the late Pope Paul VI during whose pontificate the University was transformed from secular to Catholic. He had fleur-de-lis in his coat arms.<br><br>The Latin motto Veritas in Caritate (Truth in Charity) speaks the University's commitment to human development, especially of the poor and the working man.<br><br>The University colors are blue and white, the same colors adopted by its founder."
+},
+{
+"userText": "University Governance",
+"botReply": "Adamson University is a Catholic learning institution owned and managed by Vincentian priests and brothers. As an educational apostolate of the Congregation of the Mission, the University, consistent to its doctrinal purpose, seeks to cater to the socially disadvantaged students.<br><br>In the entire stay of the students in the University, it is expected that the academic, co-academic and extra-curricular activities will form them to individuals, whose ideals are reflective of the values needed in the academic community, and the whole nation. Student services are readily available to complement the conduct of a foresaid activities in accordance with the established policies aimed at maintaining the academic standards of the University.<br><br>Enrollment of the student is viewed as a special contract indicative of his acceptance to the University rules and regulations set for thin this Student Manual, pursuant with the role of the University, namely: character formation, discipline, developmental growth and Vincentian education."
+},
+{
+"userText": "Tell me somethinng about Accreditation",
+"botReply": "Adamson University is an accredited member of the following national and international educational organizations:<br><br>Association of Southeast and East Asian Catholic Colleges and Universities (ASEACCU)<br>Association of Southeast Asian Institutions of Higher Learning (ASAIHL)<br>Philippine Association of Colleges and Universities (PACU)<br>Catholic Educational Association of the Philippines (CEAP)<br>Association of Catholic Universities of the Philippines (ACUP)<br>Philippine Association of Colleges and Universities Commission on Accreditation (PACUCOA)<br>The Federation of Accrediting Agencies of the Philippines (FAAP)<br>Philippine Accrediting Association of Schools, Colleges and Universities (PAASCU)<br>South Manila Educational Consortium (SMEC)<br>University Belt (U-Belt) Consortium<br>Philippine Technological Council (PTC)<br>Philippine Association of Engineering Schools (PAES)<br><br>Moreover, Adamson University is affiliated with or is an institutional member of several other international and national professional associations and organizations."
+},
+{
+"userText": "What are the college programs offered by Adamson University?",
+"botReply": "== College of Graduate School Programs ==<br><br>Doctor of Philosophy in Education (Educational Leadership)<br>Doctor of Philosophy in Management<br>Master of Arts in Education<br>Master of Arts in Psychology<br>Master of Science in Pharmacy<br>Master in Information Technology<br>Master in Business Administration<br>Master of Engineering (Civil Engineering, Chemical Engineering, Computer Engineering, Electrical Engineering, Electronics Engineering, Industrial Engineering, Mechanical Engineering)<br>Master of Science in Biology<br>Master of Science in Chemistry<br>Master in Construction Management<br>Master of Management Engineering<br>Master of Arts in Communication<br>== St. Vincent School of Theology Programs ==<br><br>Doctor of Philosophy in Theology<br>Master of Arts in Theology (Biblical Studies, Moral Studies, Liturgical Studies, Systematic Studies, Vincentian Studies)<br>Master in Pastoral Ministry (Non-Thesis)<br>== College of Law Program ==<br><br>Bachelor of Laws<br>== College of Architecture Program ==<br><br>Bachelor of Science in Architecture<br>== College of Business Administration Programs ==<br><br>Bachelor of Science in Accountancy<br>Bachelor of Science in Accounting Technology<br>Bachelor of Science in Customs Administration<br>Bachelor of Science in Hospitality Management<br>Bachelor of Science in Real Estate Management<br>Bachelor of Science in Business Administration Major in Financial Management, Business Economics, Marketing Management, Operations Management<br>== College of Education and Liberal Arts Programs ==<br><br>Bachelor of Elementary Education<br>Bachelor of Special Needs Education (Elementary School Education)<br>Bachelor of Secondary Education Major in English, MAPEH<br>Bachelor of Physical Education<br>Bachelor of Science in Exercise and Sports Major in Fitness and Sports Management<br>Bachelor of Arts in Communication<br>Bachelor of Arts in Philosophy<br>Bachelor of Arts in Political Science<br>Note: *Not offered effective S.Y. 2018- 2019<br><br>== College of Engineering Programs ==<br><br>Bachelor of Science in Chemical Engineering<br>Bachelor of Science in Chemical Process Technology<br>Bachelor of Science in Civil Engineering<br>Bachelor of Science in Computer Engineering<br>Bachelor of Science in Electrical Engineering<br>Bachelor of Science in Electronics Engineering<br>Bachelor of Science in Geology<br>Bachelor of Science in Industrial Engineering<br>Bachelor of Science in Mechanical Engineering<br>Bachelor of Science in Mechanical Engineering Major in Mechatronics (dual degree)<br>Mining Engineering<br>Petroleum Engineering<br>== College of Nursing ==<br><br>Bachelor of Science in Nursing<br>== College of Pharmacy Programs ==<br><br>Bachelor of Science in Pharmacy<br>Bachelor of Science in Clinical Pharmacy<br>== College of Science Programs ==<br><br>Bachelor of Science in Biology<br>Bachelor of Science in Chemistry<br>Bachelor of Science in Computer Science<br>Bachelor of Science in Information Technology<br>Bachelor of Science in Information System<br>Bachelor of Science in Psychology<br>Associate in Computer Technology (2-year course)<br>== Basic Education Programs ==<br><br>Pre-School<br>Grade School<br>Junior High School<br>Senior High School"
+},
+{
+"userText": "Admission Requirements and Enrollment Procedures",
+"botReply": "The University through the Admissions and Student Recruitment Office and the Office of the Registrar in collaboration with the Office of the Vice President for Academic Affairs (OVPAA) and the Institutional Planning and Development Office (IPPDO) is responsible for the development and oversight of a strategy to attract gifted, talented, and creative students to partake of and share with the Vincentian education through the various academic programs of the University. Thus, the following admission requirements, policies and procedures have been set: (ask about the 'objectives/Scope of admission requirements to learn more.'"
+},
+{
+"userText": "Objective of Admission Requirements",
+"botReply": "In offering admission to prospective student, the goal is to educate and produce students who will be eligible in learning of a certain program. It is the ways wherein the students obtain a university degree that allow them to fully appreciate and understand the program and attain the appropriate career that could widen, develop and contribute meaningfully to themselves and the society. In doing so, this policy define the admission requirements of incoming students."
+},
+{
+"userText": "Scope of Admission Requirements",
+"botReply": "This process defines the admission requirements and procedures of freshmen, transferees, foreign students, old students, and returning students. The incoming freshmen students shall be accepted regardless of sex, nationality, religious beliefs, socio-economic status, or political affiliation provided he/she graduated from any recognized senior high schools and must meet all the prescribed admission requirements of Adamson University."
+},
+{
+"userText": "How to apply for online university examination?",
+"botReply": "Type in the internet browser's address bar https://www.adamson.edu.ph/uee/ for online application."
+},
+{
+"userText": "Enrollment for Freshmen",
+"botReply": "The enrollment procedure for freshmen involves applying and passing the University Entrance Exam (UEE), submitting required documents, attending an interview, paying fees, and more."
+},
+{
+"userText": "Enrollment for Old Students",
+"botReply": "Print or view the pre-advised subjects in Learning Management System (LMS) or e-Learning, then pay at the cash management office or any accredited banks or bayad center, then print your certificate of enrollment."
+},
+{
+"userText": "Enrollment for Transferees",
+"botReply": "Print or view the pre-advised subjects in Learning Management System (LMS) or e-Learning, then pay at the cash management office or any accredited banks or bayad center, then choose subject/s online, then print your certificate of enrollment."
+},
+{
+"userText": "Enrollment for Nonresident students",
+"botReply": "<b>Non-Consortium School Requirements:</b><br>2pcs. 2x2 ID picture<br> Permit to Cross Enroll<br>Certificate of Good Moral Character<br><br>Consortium School Requirements:<br>2pcs. 2x2 ID picture<br>Permit to Cross Enroll."
+},
+{
+"userText": "Enrollment for International Students",
+"botReply": "Refer to the UEE section for online application - and to the handbook's article II section 8 for the complete details."
+},
+{
+"userText": "What is a Student Info Sheet?",
+"botReply": "Every Freshmen and Transferee student must accomplish Student Information Sheet the moment they enroll in this institution. They voluntarily and willfully agree to give their personal data in accordance with the Data Privacy Act of 2012 or R.A 10173 to be processed by the Admission Office. The encoded data shall form part of the permanent record of the student and cannot be amended or modified unless there is proof/document that will support the changes."
+},
+{
+"userText": "What is a Letter of undertaking?",
+"botReply": "There shall be a letter of undertaking form to be accomplished by freshmen or transferee student who has a deficiency in his/her requirements. The deficient student should execute a letter of undertaking using the LOU Form the admissions office indicating therein the date of submission and the effect for non-compliance."
+},
+{
+"userText": "How can i withdraw my credentials and enrollment?",
+"botReply": "To withdraw enrollment, students must accomplish the request for withdrawal of credentials and cancellation of enrollment. Refund rules apply based on the timing of withdrawal."
+},
+{
+"userText": "How are students classified?",
+"botReply": "Students are classified by curriculum year based on the number of credits already earned and in accordance with the curriculum standards where students are enrolled. Students with more than 75% academic load of regular load in the curriculum shall be classified as full-time students while students with less than 75% academic load shall be classified as part-time students."
+},
+{
+"userText": "Tell me about Probitionary Status",
+"botReply": "Probationary status is given to a student who has an academic deficiency of 30% or more of  enrolled academic units at the end of a given semester. Grades of 5.0 (Failed), 6.0 (Dropped), or 0.0 (No Grade) are included in the determination of academic deficiency. "
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+{
+"userText":"",
+"botReply": ""
+},
+]
